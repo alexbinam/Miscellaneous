@@ -1,6 +1,5 @@
 
 
-#Alexandra Binam
 #In this assignment you will check if HTML (a language for making web pages) is valid or not based on highly simplified rules.
 
 #You are going to compare closing and opening tags and make sure they match and come in the right order. The rules for our simple HTML are as follows:
